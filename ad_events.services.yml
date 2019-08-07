@@ -1,0 +1,3 @@
+services:
+  ad_events.process_date:
+    class: Drupal\ad_events\Services\ProcessDate
